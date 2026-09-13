@@ -20,4 +20,6 @@ Because of this, this repository currently hosts Android releases only. The Andr
 
 This is an **unofficial Android port**.
 
-Android-specific development, versioning, updates, controls, and other platform features are maintained separately by Team Frameskip.
+Android-specific development, versioning, updates, controls, and other platform features are maintained separately by me.
+
+ONB is created and maintained by Team Frameskip.
